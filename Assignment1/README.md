@@ -3,7 +3,7 @@
 
 ## Login Demo
 
-## Download App
+### Download App
 Download and install .apk file from [here](https://github.com/IamAKX/Box8-Assignments/blob/master/Assignment1/app/release/app-release.apk?raw=true "click here to start downloading")
 
 ### Features:
