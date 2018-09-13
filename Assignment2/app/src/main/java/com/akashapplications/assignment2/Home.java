@@ -50,7 +50,7 @@ public class Home extends AppCompatActivity {
 
             switch (i) {
                 case 0:
-                    sliderView.setImageUrl("https://assets.box8.co.in/picture_resolutions/photos/000/003/147/original/8-pass-web-banner_%281%29.jpg?1536761084");
+                    sliderView.setImageUrl("https://assets.box8.co.in/picture_resolutions/photos/000/002/883/original/GC-----Web.jpg?1536814612");
                     break;
                 case 1:
                     sliderView.setImageUrl("https://assets.box8.co.in/picture_resolutions/photos/000/003/175/original/2---Web-banner.jpg?1536735023");
