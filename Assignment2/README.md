@@ -3,6 +3,9 @@
 
 ## Home Page Demo
 
+### Download App
+Download and install .apk file from [here](https://github.com/IamAKX/Box8-Assignments/blob/master/Assignment2/app/release/app-release.apk?raw=true "click here to start downloading")
+
 ### Features:
 - Banner linking to Box8.in
 - Food categories displayed in GridLayout
