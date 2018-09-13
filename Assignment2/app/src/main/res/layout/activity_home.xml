@@ -25,6 +25,8 @@
         android:layout_height="match_parent"
         android:clipChildren="false"
         android:clipToPadding="false"
+        android:layout_gravity="center_horizontal"
+        android:foregroundGravity="center_horizontal"
         android:scrollbars="none">
     </android.support.v7.widget.RecyclerView>
 
