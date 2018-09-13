@@ -1,11 +1,20 @@
 package com.akashapplications.assignment2.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
+import android.view.LayoutInflater;
+import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
 
+import com.akashapplications.assignment2.Menu;
+import com.akashapplications.assignment2.R;
 import com.akashapplications.assignment2.model.CategoryModel;
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.RequestOptions;
 
 import java.util.ArrayList;
 
@@ -24,12 +33,26 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
 
     @NonNull
     @Override
-    public CategoryAdapter.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        return null;
+    public ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
+        View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.category_item,viewGroup,false);
+        return new ViewHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull CategoryAdapter.ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull CategoryAdapter.ViewHolder holder, final int position) {
+
+        Glide.with(context)
+                .load(categoryList.get(position).getImageId())
+                .into(holder.image);
+
+        holder.title.setText(categoryList.get(position).getName());
+
+        holder.image.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                context.startActivity(new Intent(context, Menu.class).putExtra("position",position));
+            }
+        });
 
     }
 
@@ -38,6 +61,13 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
         return categoryList.size();
     }
 
-    public class ViewHolder {
+    public class ViewHolder extends RecyclerView.ViewHolder {
+        ImageView image;
+        TextView title;
+        public ViewHolder(View itemView) {
+            super(itemView);
+            image = itemView.findViewById(R.id.image);
+            title = itemView.findViewById(R.id.title);
+        }
     }
 }

@@ -1,0 +1,39 @@
+{
+  "data" : [
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/447/original/Paneer-Housefull-Wrap.jpg?1512208026",
+      "title" : "Paneer Housefull Wrap",
+      "description" : "Loads of grilled paneer & a mix of exotic veggies dripping in a spicy Desi sauce & Green chutney. Paneer wrap truly done better!",
+      "amount" : "₹ 198",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/450/original/Chicken-Bhuna-Wrap.jpg?1512208026",
+      "title" : "Chicken Bhuna Wrap",
+      "description" : "The ultimate Desi Wrap with Chicken Kebab, special spicy sauce, Green chutney rolled with Onions in a whole wheat paratha!",
+      "amount" : "₹ 178",
+      "isVeg" : false
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/449/original/Chicken-Mayo-Wrap.jpg?1512208026",
+      "title" : "Chicken Mayo Wrap",
+      "description" : "Loaded with Fire Grilled Chicken topped with a generous portion of Mayo & the perfect amount of crunchy veggies",
+      "amount" : "₹ 148",
+      "isVeg" : false
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/451/original/Chicken-Tikka-Wrap.jpg?1512208026",
+      "title" : "Chicken Tikka Wrap",
+      "description" : "Classic chicken tikka roll in a whole wheat paratha & tikka sauce. A BOX8 Special!",
+      "amount" : "₹ 188",
+      "isVeg" : false
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/443/original/Chatpata-Patty-Wrap.jpg?1512208026",
+      "title" : "Veggie Patty Wrap",
+      "description" : "Oven Grilled all-veg patty with a flavourful tikka sauce wrapped with fresh veggies! Tantalize your Desi taste-buds!",
+      "amount" : "₹ 148",
+      "isVeg" : true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "data" : [
+        {
+            "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/002/696/original/1110-X-810.jpg?1534338437",
+            "title" : "20 Orders | Valid 180 Days",
+            "description" : "Maximize savings, minimize hassle with 8PASS PRO. Flat 25% OFF on next 20 orders | Valid for 180 days | No min. order value | Free priority delivery. Order anytime without a 2nd thought!",
+            "amount" : "₹ 149",
+            "isVeg" : true
+        },
+        {
+            "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/003/210/original/1110-X-810.jpg?1534338403",
+            "title" : "5 Orders | Valid 90 Days",
+            "description" : "Join the saver's club with 8PASS Trial. FLAT 25% OFF on next 5 orders | Valid for 90 days | No min. order value | Free priority delivery. Get used to saving BIG on every order!",
+            "amount" : "₹ 79",
+            "isVeg" : true
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "data" : [
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/212/original/1110-x-810.jpg?1525238754",
+      "title" : "Dal Makhni Rice Box",
+      "description" : "Creamy Dal Makhni with Rice + Salad + Mint chutney + Garlic yogurt. The most satisfying meal ever!",
+      "amount" : "₹ 148",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/208/original/1110-x-810.jpg?1525238626",
+      "title" : "Amritsari Chole Chawal Box",
+      "description" : "Authentic Amritsari chole with Rice + Salad + Mint chutney + Garlic yogurt",
+      "amount" : "₹ 148",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/216/original/1110-x-810.jpg?1524925422",
+      "title" : "Dilli Wale Rajma Chawal Box",
+      "description" : "Really good Rajma served with Rice + Salad + Mint chutney + Garlic yogurt. Comfort meal at it's best!",
+      "amount" : "₹ 148",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/220/original/1110-x-810.jpg?1524810758",
+      "title" : "Grilled Tikki Box",
+      "description" : "Grilled veg patty with a spicy masala curry; Served with Rice + Salad + Mint chutney + Garlic yogurt",
+      "amount" : "₹ 188",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/224/original/1110-x-810.jpg?1524811291",
+      "title" : "Paneer Masala Box",
+      "description" : "Loads of creamy Paneer with a masaledaar curry; Served with Rice + Salad + Mint chutney + Garlic yogurt",
+      "amount" : "₹ 198",
+      "isVeg" : true
+    }
+  ]
+}

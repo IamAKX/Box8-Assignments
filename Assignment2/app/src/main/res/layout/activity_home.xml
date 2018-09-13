@@ -12,10 +12,15 @@
         android:layout_height="200dp"
         android:layout_alignParentTop="true"
         android:id="@+id/imageSlider"/>
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textColor="@color/hint"
+        android:text="CATEGORY"
+        android:textStyle="bold"/>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerview"
-        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipChildren="false"

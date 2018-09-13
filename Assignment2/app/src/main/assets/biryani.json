@@ -1,0 +1,32 @@
+{
+  "data" : [
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/409/original/1110-X-810.jpg?1512572605",
+      "title" : "Shahi Paneer Biryani",
+      "description" : "Extra-long basmati rice cooked with loads of fire-grilled paneer tikkas & whole spices. Burst of flavours in every bite! Served with Raita",
+      "amount" : "₹ 238",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/408/original/1110-x-810-A.jpg?1530874713",
+      "title" : "Firangi Subz Biryani",
+      "description" : "Baby corn, Mushroom & Paneer cooked in biryani masala & layered over fragrant basmati rice. A mind blowing fusion! Served with Raita",
+      "amount" : "₹ 208",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/411/original/1110-x-810-A.jpg?1530874591",
+      "title" : "Chicken Tikka Biryani",
+      "description" : "Smoked Chicken-Tikka slow cooked with fragrant basmati rice & whole spices. A truly novel experience! Served with Raita",
+      "amount" : "₹ 258",
+      "isVeg" : false
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/410/original/1110-x-810.jpg?1524757107",
+      "title" : "Murg Dum Biryani",
+      "description" : "Succulent chicken (boneless) layered over aromatic super-long grain rice, slow cooked in quintessential dum style! Served with Raita",
+      "amount" : "₹ 238",
+      "isVeg" : false
+    }
+  ]
+}

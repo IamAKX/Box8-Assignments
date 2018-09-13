@@ -1,0 +1,39 @@
+{
+  "data" : [
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/466/original/1110-x-810.jpg?1529746115",
+      "title" : "Basmati Rice",
+      "description" : "Extra-long grain basmati rice steamed with mild & aromatic Desi herbs | Serves 2",
+      "amount" : "₹ 98",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/496/original/1110-X-810-.jpg?1512572906",
+      "title" : "Tawa Paratha [Pack of 2]",
+      "description" : "Garma-garam soft whole wheat parathas made in Desi ghee",
+      "amount" : "₹ 58",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/458/original/1110-x-810-A.jpg?1530873211",
+      "title" : "Kadhai Paneer",
+      "description" : "Soft paneer simmered in masala curry made with freshly ground spices | Serves 2",
+      "amount" : "₹ 248",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/401/original/WB.jpg?1512208026",
+      "title" : "Raita",
+      "description" : "Perfect way to complement your feast. Thick masala raita with notes of Cumin & fresh Mint | Serves 1",
+      "amount" : "₹ 28",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/461/original/1110-x-810.jpg?1526036426",
+      "title" : "Butter Chicken",
+      "description" : "Our version of an indulgent butter chicken curry. It's rich, creamy & NOT sweet. It's the real deal | Serves 2",
+      "amount" : "₹ 298",
+      "isVeg" : false
+    }
+  ]
+}

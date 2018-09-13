@@ -1,0 +1,18 @@
+{
+  "data" : [
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/001/462/original/1110-X-810.jpg?1528296177",
+      "title" : "Tender Coconut [500mL Family Pack]",
+      "description" : "Chunks of fresh tender coconut pieces slow churned into a subtly flavoured creamy wonder. A coastal dream!",
+      "amount" : "₹ 219",
+      "isVeg" : true
+    },
+    {
+      "image" : "https://assets.box8.co.in/picture_resolutions/photos/000/000/860/original/1110-X-810.jpg?1529318463",
+      "title" : "Sheer Khurma [500 mL Family Pack]",
+      "description" : "The quintessential Ramadan feast now in an ice-cream- A Desi fusion never seen before.",
+      "amount" : "₹ 219",
+      "isVeg" : true
+    }
+  ]
+}
